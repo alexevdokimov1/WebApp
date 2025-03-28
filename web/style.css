@@ -24,7 +24,8 @@ body {
 	}
 }
 
-div#content{
+div#content {
+    width: max-content;
     text-align: center;
     position: absolute; 
     left: 50%; 
@@ -36,6 +37,6 @@ h1 {
     font-size: 5vw;
 }
 
-p{  
+p {  
     font-size: 2vw;
 }
